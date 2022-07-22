@@ -1,11 +1,15 @@
-# paper-vue
+# 毕业论文管理系统
+> 这是一个毕业论文管理系统的前端项目
+> 使用VUE框架ElementUI组件库搭建
+> 后端项目配合
+
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for developmentS
 ```
 npm run serve
 ```

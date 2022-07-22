@@ -6,8 +6,7 @@ import es from "element-ui/src/locale/lang/es";
 // 本地
 axios.defaults.baseURL = "http://localhost:8081"
 
-// 服务器
-// axios.defaults.baseURL = "http://175.178.234.108:8081"
+
 
 const request = axios.create({
     timeout: 5000,

@@ -33,7 +33,6 @@
             </el-table>
 
             <!--        上传论文弹框-->
-<!--            175.178.234.108:8081-->
 <!--            localhost:8081-->
             <el-dialog title="上传论文" :visible.sync="dialogUploadVisible" width="37%">
                 <el-upload
